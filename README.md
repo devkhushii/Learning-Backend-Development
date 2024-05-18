@@ -57,3 +57,4 @@ The Searchyoutube.py script automates YouTube searches and plays songs.
 python Searchyoutube.py
 ```
 The script will open YouTube, search for a specified song, and play it.
+https://github.com/Khushi-r2005/web-scraping/assets/128570886/4340a3ba-0604-4edc-afa7-3bcd6f315101
