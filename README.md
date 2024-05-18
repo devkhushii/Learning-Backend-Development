@@ -54,7 +54,7 @@ The Searchyoutube.py script automates YouTube searches and plays songs.
 1.Ensure you have ChromeDriver installed and it's in your PATH.
 2.Run the script:
 ```bash
-python Searchyoutube.py](
+python Searchyoutube.py
 ```
 The script will open YouTube, search for a specified song, and play it.
 
