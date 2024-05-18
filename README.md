@@ -40,9 +40,13 @@ python flipkart.py
 ```
 The scraped data will be saved in Iphone.csv
 
+https://github.com/Khushi-r2005/web-scraping/assets/128570886/da196ae4-8b13-4efc-8bd4-6e100ce9d59b
+
+
 ### Ajio Scroller
 The ajio.py script automates browser scrolling on Ajio to handle infinite scrolling.
 1.Ensure you have ChromeDriver installed and it's in your PATH.
+
 2.Run the script:
 ```bash
 python ajio.py
@@ -54,6 +58,7 @@ https://github.com/Khushi-r2005/web-scraping/assets/128570886/d383c33f-e68f-4a82
 ### YouTube Search and Play
 The Searchyoutube.py script automates YouTube searches and plays songs.
 1.Ensure you have ChromeDriver installed and it's in your PATH.
+
 2.Run the script:
 ```bash
 python Searchyoutube.py
