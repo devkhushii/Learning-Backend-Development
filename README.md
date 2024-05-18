@@ -16,7 +16,7 @@ searchyoutube.py: Automates YouTube searches and plays song.
 
 ```bash
 git clone https://github.com/Khushi-r2005/webScrapping.git
-cd webScrapping
+cd web-scrapping
 ```
 #### Installation Required:
 
