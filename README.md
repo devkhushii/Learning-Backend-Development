@@ -4,7 +4,9 @@
 This repository contains scripts for web scraping and browser automation. The projects included are:
 
 flipkart.py: Scrapes data from Flipkart and stores it in a CSV file.
+
 ajio.py: Automates browser scrolling on Ajio to handle infinite scrolling.
+
 searchyoutube.py: Automates YouTube searches and plays song.
 
 
