@@ -47,6 +47,8 @@ python ajio.py
 ```
 The script will scroll through the Ajio website.
 
+https://github.com/Khushi-r2005/web-scraping/assets/128570886/d383c33f-e68f-4a82-9816-cf3d31c108c1
+
 ### YouTube Search and Play
 The Searchyoutube.py script automates YouTube searches and plays songs.
 1.Ensure you have ChromeDriver installed and it's in your PATH.
