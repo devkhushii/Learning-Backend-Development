@@ -9,7 +9,7 @@ ajio.py: Automates browser scrolling on Ajio to handle infinite scrolling.
 
 searchyoutube.py: Automates YouTube searches and plays song.
 
-extractinstagram.py : scrapes data of given username from instagram
+extractInstagram.py : scrapes data of given username from instagram
 
 
 
@@ -71,12 +71,14 @@ https://github.com/Khushi-r2005/web-scraping/assets/128570886/c9284e40-eb08-4e37
 
 
 ### Instagram Scrapper
-The extractinstagram.py scrapes data (like profile, followers, followings, number of posts ) and download the post of given username from instagram
+The extractInstagram.py scrapes data (like profile, followers, followings, number of posts ) and download the post of given username from instagram
 
 Run the script:
 ```bash
 pip install instaloader
 ```
 ```bash
-python extractinstagram.py
+python extractInstagram.py
 ```
+
+https://github.com/Khushi-r2005/web-scraping/assets/128570886/02c40c38-7eb7-454b-a0b8-6b2cd9671dde
