@@ -82,3 +82,24 @@ python extractInstagram.py
 ```
 
 https://github.com/Khushi-r2005/web-scraping/assets/128570886/02c40c38-7eb7-454b-a0b8-6b2cd9671dde
+
+### python request module example
+req.py file contains examples of using the `requests` module in Python to perform various HTTP methods such as GET, POST, PUT, DELETE, HEAD, PATCH, and handling query parameters
+
+Run the script:
+```bash
+python req.py
+```
+#### Description
+GET Request: Retrieve content from a URL.
+
+POST Request: Send data to a server.
+
+PUT Request: Update a resource on a server.
+
+DELETE Request: Delete a resource on a server.
+
+HEAD Request: Retrieve headers from a URL.
+
+PATCH Request: Partially update a resource on a server
+
