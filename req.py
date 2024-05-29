@@ -1,3 +1,8 @@
+""" note:
+1.The URL used for GET requests points to Geeks for Geeks, which typically returns HTML content.
+2.The httpbin.org service is used to demonstrate POST, PUT, DELETE, and PATCH requests because it provides an endpoint that simply returns the data you sent, which is useful for testing purposes.
+"""
+
 import requests
 
 url="https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=geeksforgeeks&matchtype=e&campaignid=20039445781&adgroup=147845288105&gad_source=1&gclid=CjwKCAjwgdayBhBQEiwAXhMxthi22uUIGEvDQ2sBmQXx2shbFVH3VNJTJlvkUGRKh509HNGUN5AOMhoCWgIQAvD_BwE"
