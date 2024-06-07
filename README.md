@@ -103,3 +103,15 @@ HEAD Request: Retrieve headers from a URL.
 
 PATCH Request: Partially update a resource on a server
 
+### client-server
+This project demonstrates a simple client-server communication using Python's socket  module. The server listens for incoming connections and responds to client messages, while the client sends messages to the server and receives responses.
+
+Running the Server
+   ```bash
+   python server.py
+   ```
+
+Running the Client
+```bash
+python client.py
+```
