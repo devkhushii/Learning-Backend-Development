@@ -118,3 +118,16 @@ python client.py
 here's communication flow betwwen client and server
 
 https://github.com/Khushi-r2005/Learning-Backend-Development/assets/128570886/b7dbaf58-b2a7-4355-beb5-3ac009d814bd
+
+### http client-server
+This project demonstrates a simple HTTP server and client using Python's `http.server` and `http.client` modules. The server handles GET, POST, PUT, and HEAD requests, while the client sends these requests and prints the server's responses.
+
+Running the Server
+   ```bash
+   python server.py
+   ```
+
+Running the Client
+```bash
+python client.py
+```
