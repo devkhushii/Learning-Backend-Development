@@ -115,3 +115,6 @@ Running the Client
 ```bash
 python client.py
 ```
+here's communication flow betwwen client and server
+
+https://github.com/Khushi-r2005/Learning-Backend-Development/assets/128570886/b7dbaf58-b2a7-4355-beb5-3ac009d814bd
